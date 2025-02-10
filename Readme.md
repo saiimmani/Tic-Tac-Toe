@@ -61,5 +61,5 @@ Tkinter is Python’s built-in **Graphical User Interface (GUI)** library. It's 
 ## 📜 License
 This project is licensed under the **MIT License**.
 
-💡 **Made with ❤️ and Python by [Sai Immani]** 🚀
+💡 **Made with ❤️ and Python by Sai Immani** 🚀
 
