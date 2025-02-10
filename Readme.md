@@ -51,8 +51,7 @@ Tkinter is Python’s built-in **Graphical User Interface (GUI)** library. It's 
 5. **Win the Game!** – Get three in a row, column, or diagonal.
 
 ## 📷 Screenshots
-*(![image](https://github.com/user-attachments/assets/ba7847e0-7107-4731-b8f8-42335a396052)
-)*
+![image](https://github.com/user-attachments/assets/ba7847e0-7107-4731-b8f8-42335a396052)
 
 ## 🔧 Future Enhancements
 - 🎨 Add more themes and customizable board colors.
