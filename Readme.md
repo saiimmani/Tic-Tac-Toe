@@ -57,6 +57,3 @@ Tkinter is Python’s built-in **Graphical User Interface (GUI)** library. It's 
 -  Add more themes and customizable board colors.
 -  Sound effects for an immersive experience.
 - Leaderboard to track player stats.
-
-## License
-This project is licensed under the **MIT License**.
